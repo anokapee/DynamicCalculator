@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DynamicCalculator</string>
+    <string name="ac_text">AC</string>
+    <string name="neg_text">±</string>
+    <string name="modulus_text">%</string>
+    <string name="division_text">÷</string>
+    <string name="mult_text">×</string>
+    <string name="minus_text">−</string>
+    <string name="plus_text">+</string>
+    <string name="sqrt_text">√</string>
+</resources>
